@@ -11,9 +11,9 @@ Please ensure you have the following installed before starting
 
 ## 1. Install `uv` (Python package manager)
 ```bash
-curl -LsSf https://astral.sh/uv/install.sh | sh     # install from source
-source $HOME/.local/bin/env                         # set uv path
-uv --version                                        # check uv installation
+curl -LsSf https://astral.sh/uv/install.sh | sh     # Install uv
+source $HOME/.local/bin/env                         # Add uv to your shell path
+uv --version                                        # Verify installation
 ```
 
 ## 2. Install LM Studio
@@ -38,11 +38,11 @@ Choose GGUF for non-M series Macs.
 ## Setup Instructions
 
 ```bash
-git clone https://github.com/kannansingaravelu/agno-demo.git    # clone this repository
-cd agno-demo                                                    # change directory 
-uv venv --python 3.13 .venv                                     # create venv with python 3.13
-uv sync                                                         # install dependencies
-uv run examples/main.py                                         # run sample demo
+git clone https://github.com/kannansingaravelu/agno-demo.git 
+cd agno-demo                                                  
+uv venv --python 3.13 .venv                         # Create venv with python 3.13
+uv sync                                         	# Install dependencies                                                     
+uv run examples/main.py								# Run sample demo                             
 ```
 
 ## Project Structure
