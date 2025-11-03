@@ -23,8 +23,6 @@ LM Studio allows you to run large language models (LLMs) locally on your machine
 Download the following models directly from within LM Studio using the “Models” tab.
 LM Studio automatically saves them in the correct location and format.
 
-Recommended Models:
-
     •	gpt-oss-20b	 		→ for general-purpose agent reasoning with tool use
 
 	•	bge-small-en-v1.5 	→ for embedding and retrieval tasks
