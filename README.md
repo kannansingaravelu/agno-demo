@@ -1,4 +1,4 @@
-# Agentic Finance Bootcamp by Kannan Singaravelu
+# Building Intelligent Financial Agents with Agno AGI
 
 Welcome to the **Agentic Finance Bootcamp** demo project!  
 
@@ -28,9 +28,9 @@ LM Studio automatically saves them in the correct location and format.
 
 Recommended Models:
 
-    •	gpt-oss-20b → for general-purpose agent reasoning with tool use
+    •	gpt-oss-20b	 		→ for general-purpose agent reasoning with tool use
 
-	•	bge-small-en-v1.5 → for embedding and retrieval tasks
+	•	bge-small-en-v1.5 	→ for embedding and retrieval tasks
 
 Choose GGUF for non-M series Macs.
 
