@@ -17,13 +17,10 @@ uv --version                                        # Verify installation
 ```
 
 ## 2. Install LM Studio
-Download and install LM Studio from the official site:
-> https://lmstudio.ai/download 
-
-LM Studio allows you to run large language models (LLMs) locally on your machine.
+LM Studio allows you to run large language models (LLMs) locally on your machine. Download and install LM Studio from the official site: https://lmstudio.ai/download 
 
 ## 3. Load Local Models 
-**Best Option**: Download the following models directly from within LM Studio using the “Models” tab.
+Download the following models directly from within LM Studio using the “Models” tab.
 LM Studio automatically saves them in the correct location and format.
 
 Recommended Models:
