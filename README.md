@@ -17,18 +17,17 @@ uv --version                                        # Verify installation
 ```
 
 ## 2. Install LM Studio
-LM Studio allows you to run large language models (LLMs) locally on your machine. Download and install LM Studio from the official site: https://lmstudio.ai/download 
+LM Studio allows you to run large language models (LLMs) locally on your machine. Download and install LM Studio from the [official site](https://lmstudio.ai/download). Launch LM Studio and start the local API server from the sidebar. By default, it runs at http://localhost:1234/v1 
 
 ## 3. Load Local Models 
 Download the following models directly from within LM Studio using the “Models” tab.
 LM Studio automatically saves them in the correct location and format.
 
-    •	gpt-oss-20b	 		→ for general-purpose agent reasoning with tool use
+    •	gpt-oss-20b	 							→ for general-purpose agent reasoning with tool use
 
-	•	bge-small-en-v1.5 	→ for embedding and retrieval tasks
+	•	text-embedding-nomic-embed-text-v1.5 	→ for embedding and retrieval tasks
 
-Choose GGUF for non-M series Macs.
-
+Choose GGUF for non-M series Macs. LMStudio ships with a built-in lightweight embedding service (based on nomic-embed-text or equivalent) for local compatibility with OpenAI-style /v1/embeddings APIs. 
 
 ## Setup Instructions
 
