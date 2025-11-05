@@ -49,3 +49,17 @@ agno-demo/
 └── examples/
     └── main.py            
 ```
+
+## System Compatibility Note
+
+**Note:**
+This demo was developed and will be presented using Apple Silicon (M-series) Macs. Model formats and runtime performance are optimized for macOS + M-series chips.
+
+If you’re using Windows, Linux, or Intel-based macOS, please:
+
+	•	Download model variants compatible with your system (e.g., non-M-series .gguf or .safetensors models).
+	•	Configure LM Studio or Ollama accordingly.
+	•	Expect minor differences in setup or performance.
+
+**Bootcamp Scope:**
+The bootcamp will not cover installation procedures for other operating systems. Participants using non-macOS systems are encouraged to adapt the setup steps independently or refer to their platform’s documentation.
