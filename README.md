@@ -50,7 +50,7 @@ agno-demo/
     └── main.py            
 ```
 
-## System Compatibility Note
+## System Compatibility 
 
 **Note:**
 This demo was developed and will be presented using Apple Silicon (M-series) Macs. Model formats and runtime performance are optimized for macOS + M-series chips.
