@@ -57,7 +57,7 @@ This demo was developed and will be presented using Apple Silicon (M-series) Mac
 
 If you’re using Windows, Linux, or Intel-based macOS, please:
 
-	•	Download model variants compatible with your syste.
+	•	Download model variants compatible with your system.
 	•	Configure LM Studio or Ollama accordingly.
 	•	Expect minor differences in setup or performance.
 
