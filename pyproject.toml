@@ -13,7 +13,6 @@ dependencies = [
     "huggingface-hub>=0.35.3",
     "lancedb>=0.25.2",
     "mcp[cli]>=1.19.0",
-    "ollama>=0.6.0",
     "openai>=2.3.0",
     "pandas>=2.3.3",
     "pypdf>=6.1.1",
