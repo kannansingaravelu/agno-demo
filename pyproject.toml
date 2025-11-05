@@ -1,7 +1,7 @@
 [project]
 name = "agno-demo"
 version = "0.1.0"
-description = "Agentic Bootcamp by Kannan Singaravelu"
+description = "Agentic Finance Bootcamp by Kannan Singaravelu"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
@@ -17,10 +17,8 @@ dependencies = [
     "openai>=2.3.0",
     "pandas>=2.3.3",
     "pypdf>=6.1.1",
-    "python-dotenv>=1.1.1",
     "quantmod==0.1.0",
     "sqlalchemy>=2.0.44",
-    "tantivy>=0.25.0",
     "uvicorn>=0.38.0",
     "youtube-transcript-api>=1.2.3",
 ]
